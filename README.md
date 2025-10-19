@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-<!--
+<!-- html tag로 꾸밀 수 있음. 드림코딩 markdown영상 시청
+https://img.shields.io/badge - 뱃지만드는 사이트
+
 **bigdwarf160/bigdwarf160** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
